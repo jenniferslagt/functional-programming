@@ -13,25 +13,25 @@ De datavisualisatie is gemaakt voor bezoekers die naar de kleine tentoonstelling
 ## Wat haal ik uit mijn database?
 Met behulp van Sparql heb ik data geselecteerd die relevant ik voor mijn concept. Ik focus me op twee variabelen: het wapentype en het aantal wapens per wapentype. Met behulp van de query heb ik deze data kunnen ophalen: <br>
 
-> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-> PREFIX dc: <http://purl.org/dc/elements/1.1/>
-> PREFIX dct: <http://purl.org/dc/terms/>
-> PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-> PREFIX edm: <http://www.europeana.eu/schemas/edm/>
-> PREFIX foaf: <http://xmlns.com/foaf/0.1/>
->
-> # tel de materiaalsoorten bij wapens
-> SELECT ?typeLabel (COUNT(?cho) AS ?choCount) WHERE {
->  # selecteer soorten wapens
->  <https://hdl.handle.net/20.500.11840/termmaster12445> skos:narrower* ?type .
->  ?type skos:prefLabel ?typeLabel .
->
-> # geef objecten van een soort wapen
->  ?cho edm:object ?type .
->
-> }
-> GROUP BY ?typeLabel
-> ORDER BY DESC(?choCount)
+> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> <br>
+> PREFIX dc: <http://purl.org/dc/elements/1.1/> <br>
+> PREFIX dct: <http://purl.org/dc/terms/> <br>
+> PREFIX skos: <http://www.w3.org/2004/02/skos/core#> <br>
+> PREFIX edm: <http://www.europeana.eu/schemas/edm/> <br>
+> PREFIX foaf: <http://xmlns.com/foaf/0.1/> <br>
+> <br>
+> /# tel de materiaalsoorten bij wapens <br>
+> SELECT ?typeLabel (COUNT(?cho) AS ?choCount) WHERE { <br>
+> /# selecteer soorten wapens <br> 
+>  <https://hdl.handle.net/20.500.11840/termmaster12445> skos:narrower* ?type . <br>
+>  ?type skos:prefLabel ?typeLabel . <br>
+> <br>
+> /# geef objecten van een soort wapen <br>
+>  ?cho edm:object ?type . <br>
+> <br>
+> } <br>
+> GROUP BY ?typeLabel <br>
+> ORDER BY DESC(?choCount) <br>
 
 
 
