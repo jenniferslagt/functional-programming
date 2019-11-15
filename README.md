@@ -50,9 +50,9 @@ Bij D3 kan er gebruik gemaakt worden van een externe stylesheet (css) om data te
 
 
 ## Mijn leerpunten
-* 
-*
-*
+* Ik heb geleerd hoe je data in array's kan selecteren, veranderen, verwijderen of toevoegen door aan de slag te gaan met Basic Javascript op freeCodeCamp.
+* Ik heb geleerd om niet met een `var` te werken, maar met const en let in ES6. Ook weet ik nu wat een locale en globale scope is.
+* Ik heb geleerd data op te schonen, door te filteren met `.map()` en `.filter()`.
 *
 
 
