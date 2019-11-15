@@ -5,7 +5,7 @@ In deze "Read.me" wordt duidelijk wat precies mijn concept is en voor wie die be
 Het museum Volkenkunde heeft ons de opdracht gegeven om een datavisualisatie te maken die "collectiebreed" is. Het hoeft juist niet specifiek te zijn, maar het moet te maken hebben met (een groot deel van) de gehele collectie van 700.000 voorwerpen (!). In begin 2020 opent het museum namelijk een kleine tentoonstelling die gaat over de missie en het DNA van het museum. Hierop zal een datavisualisatie gepresenteerd worden.
 
 ## Het concept
-
+De collectie van het wereldmuseum heeft maar liefst 700.000 foto's en objecten. Het is aan mijn de taak om een datavisualisatie te maken die collectiebreed is.
 
 ## Target audience (doelgroep)
 De datavisualisatie is gemaakt voor bezoekers die naar de kleine tentoonstelling komen in 2020. Daarom moet de visualisatie in één oogslag een duidelijk verhaal vertellen die wat zegt over het museum.
@@ -52,9 +52,11 @@ Bij D3 kan er gebruik gemaakt worden van een externe stylesheet (css) om data te
 ## Mijn leerpunten
 * Ik heb geleerd hoe je data in array's kan selecteren, veranderen, verwijderen of toevoegen door aan de slag te gaan met Basic Javascript op freeCodeCamp.
 * Ik heb geleerd om niet met een `var` te werken, maar met const en let in ES6. Ook weet ik nu wat een locale en globale scope is.
-* Ik heb geleerd data op te schonen, door te filteren met `.map()` en `.filter()`.
-*
-
+* Ik heb geleerd data op te schonen, door te filteren met `.map()` en `.filter()`. Ook heb ik geleerd om data in een array te scheiden door `.slice()` te gebruiken.
+* Ik heb geleerd wat functional programming is (zie mijn wiki).
+* Ik heb geleerd om data te importeren vanuit een csv bestand (of met de Sparql query) met `d3.csv()`.
+* Ik heb geleerd hoe ik een pie chart kan maken met d3.js. Zo is de volgorde van bepaalde stukken codes belangrijk en moet je weten hoe een cirkel precies ontstaat.
+* Ik heb geleerd om een svg element te stijlen met `.style()`.
 
 
 ## Bronnen 
