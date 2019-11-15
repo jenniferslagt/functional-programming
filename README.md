@@ -34,7 +34,7 @@ Met behulp van Sparql heb ik data geselecteerd die relevant ik voor mijn concept
 > ORDER BY DESC(?choCount) <br>
 
 ## Oefening data opschonen
-Om te begrijpen hoe je data kan opschonen, hebben we een oefening gedaan die in mijn 
+Om te begrijpen hoe je data kan opschonen, hebben we een oefening gedaan die in mijn [wiki](https://github.com/jenniferslagt/functional-programming.wiki.git) staat op de pagina "Data opschonen".
 
 ## Aan de slag met d3.js
 D3.js is een JavaScript library die documenten manipuleert gebaseerd op data (meestal in de vorm van een array met waardes). Je kan datavisualisaties (of componenten ervan) maken met JS, HTML, CSS en SVG. D3.js bindt data naar de DOM (Document Object Model) en past dan transformaties toe aan het document, zoals ik bijvoorbeeld bezig ben geweest met opschonen van data. Ook kan je interacties of animaties ermee maken op basis van grote datasets. 
@@ -50,6 +50,11 @@ Bij D3 kan er gebruik gemaakt worden van een externe stylesheet (css) om data te
 
 
 ## Mijn leerpunten
+* 
+*
+*
+*
+
 
 
 ## Bronnen 
