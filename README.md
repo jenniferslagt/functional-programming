@@ -60,8 +60,8 @@ Bij D3 kan er gebruik gemaakt worden van een externe stylesheet (css) om data te
 
 
 ## Bronnen 
-https://d3js.org/
-https://vizhub.com/
-https://observablehq.com/@d3/pie-chart
-https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
-https://www.d3indepth.com/
+https://d3js.org/ <br>
+https://vizhub.com/ <br>
+https://observablehq.com/@d3/pie-chart <br>
+https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84 <br>
+https://www.d3indepth.com/ <br>
