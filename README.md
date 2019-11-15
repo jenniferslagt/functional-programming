@@ -47,7 +47,7 @@ Bij D3 kan er gebruik gemaakt worden van een externe stylesheet (css) om data te
 
 ## Het resultaat
 ![Schermafbeelding 2019-11-15 om 12 07 05](https://user-images.githubusercontent.com/45489420/68939311-8ffb6300-07a0-11ea-9de2-7d4b332b5d78.png)
-
+![Bekijk hier de pie chart](https://jenniferslagt.github.io/functional-programming/)
 
 
 ## Mijn leerpunten
