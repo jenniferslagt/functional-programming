@@ -1,3 +1,7 @@
+## Het resultaat
+![Schermafbeelding 2019-11-15 om 12 07 05](https://user-images.githubusercontent.com/45489420/68939311-8ffb6300-07a0-11ea-9de2-7d4b332b5d78.png)
+![Bekijk hier de pie chart](https://jenniferslagt.github.io/functional-programming/)
+
 ## Korte introductie
 In deze "Read.me" wordt duidelijk wat precies mijn concept is en voor wie die bedoelt is, hoe ik te werk ben gegaan (met d3.js) en wat ik precies geleerd heb. Wil je een uitgebreide versie zien? Bekijk dan even mijn wiki. 
 
@@ -44,10 +48,6 @@ Ook kan er gebruik gemaakt worden van selections: hiermee selecteer je DOM eleme
 Styles, attributes en andere properties worden in D3 beschouwd worden als functies. 
 
 Bij D3 kan er gebruik gemaakt worden van een externe stylesheet (css) om data te visualiseren. Zo hebben transitions styles en attributes. Zo kunnen er functies toegepast worden voor tweening (geanimeerde afbeelding die en vloeibare beweging maakt). Dit kan erg complex worden, daarom kan je ook gebruik maken van css om transitions te maken.
-
-## Het resultaat
-![Schermafbeelding 2019-11-15 om 12 07 05](https://user-images.githubusercontent.com/45489420/68939311-8ffb6300-07a0-11ea-9de2-7d4b332b5d78.png)
-![Bekijk hier de pie chart](https://jenniferslagt.github.io/functional-programming/)
 
 
 ## Mijn leerpunten
