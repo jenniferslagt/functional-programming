@@ -66,3 +66,6 @@ https://vizhub.com/ <br>
 https://observablehq.com/@d3/pie-chart <br>
 https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84 <br>
 https://www.d3indepth.com/ <br>
+
+Tutorial - Introduction to D3.js - Pie Chart and Donut Chart
+https://www.youtube.com/watch?v=kK5kKA-0PUQ <br>
